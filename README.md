@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**geeegrace02/geeegrace02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/geeegrace02" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
@@ -18,4 +14,3 @@
 
 <a href="https://github.com/geeegrace02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeegrace02&langs_count=10&title_color=ec4899&text_color=facc15&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
--->
