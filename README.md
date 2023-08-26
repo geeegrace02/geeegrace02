@@ -1,32 +1,14 @@
-Hi Guys~! 🤩
-
-My name is Nichakorn Chanajitpairee
-=========================================
-
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [nichakorn.cha@ku.th](mailto:nichakorn.cha@ku.th)
-
-### Skills
-
-
+<h1 align="center">Hi 👋, I'm Nichakorn Chanajitpairee</h1>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://linkedin.com/in/nichakorn chanajitpairee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nichakorn chanajitpairee" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Socials
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geeegrace02&show_icons=true&locale=en&layout=compact" alt="geeegrace02" /></p>
 
-<p align="left"> <a href="https://www.github.com/geeegrace02" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geeegrace02&show_icons=true&locale=en" alt="geeegrace02" /></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/geeegrace02"><img src="https://github-readme-stats.vercel.app/api?username=geeegrace02&show_icons=true&hide=issues,&count_private=true&title_color=ec4899&text_color=64748b&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="geeegrace02's GitHub stats" /></a>
-
-<a href="http://www.github.com/geeegrace02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=geeegrace02&stroke=64748b&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=64748b&currStreakLabel=ec4899&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-<a href="https://github.com/geeegrace02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeegrace02&langs_count=10&title_color=ec4899&text_color=64748b&icon_color=14b8a6&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geeegrace02&" alt="geeegrace02" /></p>
